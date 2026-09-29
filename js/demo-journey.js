@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Fence construction and concrete-related work in Yucaipa. Jeffrey walks the line first and puts the price in writing.';
+            'Fence construction in Yucaipa. Jeffrey walks the line first and puts the price in writing.';
         }
       }
     },
@@ -65,7 +65,7 @@
       id: 'h1',
       apply: function () {
         if (heroH) {
-          heroH.innerHTML = 'Fences and concrete,<br>priced <em>before</em> we dig.';
+          heroH.innerHTML = 'Fences built to the line,<br>priced <em>before</em> we dig.';
         }
       }
     },

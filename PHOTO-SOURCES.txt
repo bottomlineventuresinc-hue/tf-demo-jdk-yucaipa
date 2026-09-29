@@ -14,7 +14,7 @@ fence-posts-set.jpg <- wave13/fence-posts-set.jpg : New posts set in a line acro
 fence-line-new.jpg <- wave13/fence-line-new.jpg : New fence built on fresh posts across a yard (flickr CC0 1.0 https://www.flickr.com/photos/120143184@N05/47943215636)
 fence-down-tree.jpg <- wave13/fence-down-tree.jpg : Old fence knocked down under a fallen tree (wikimedia CC0 1.0 https://commons.wikimedia.org/w/index.php?curid=141410454)
 fence-backyard-new.jpg <- wave13/fence-backyard-new.jpg : Backyard fence line along a lawn (wikimedia CC0 1.0 https://commons.wikimedia.org/w/index.php?curid=38637177)
-fence-forms-base.jpg <- wave13/fence-forms-base.jpg : Forms and base set for new concrete (wikimedia CC0 1.0 https://commons.wikimedia.org/w/index.php?curid=89507689)
-fence-conc-placed.jpg <- wave13/fence-conc-placed.jpg : New concrete placed and finished between forms (wikimedia CC0 1.0 https://commons.wikimedia.org/w/index.php?curid=92086630)
+fence-old-field.jpg <- wave13/fence-old-field.jpg : Old, weathered fence along the edge of a field (flickr CC0 1.0 https://www.flickr.com/photos/88123769@N02/12115547856)
+fence-field-new.jpg <- wave13/fence-field-new.jpg : New fence line run along a field (flickr CC0 1.0 https://www.flickr.com/photos/76297116@N00/30279044091)
 
-Note: New trade (fencing): wave13 set. Wordmark JDK Fence Construction per the packet Logo line (licensed as J D K Fence Construction). Services come from the license classes only, so no fence types or materials are named. The no-DNS jdk domains are NOT used or linked; domain ideas avoid those strings.
+Note: New trade (fencing): wave13 set. Wordmark JDK Fence Construction per the packet Logo line (licensed as J D K Fence Construction). Per the CEO ruling of 2026-09-29 the page and every sample job are fences only; no fence types or materials are named. The no-DNS jdk domains are NOT used or linked; domain ideas avoid those strings.
