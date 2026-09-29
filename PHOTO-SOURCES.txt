@@ -1,0 +1,20 @@
+PHOTO SOURCES · hs-062-jdk JDK Fence Construction (Wave 13 2026-09-29 PT)
+All CC0 / public domain (Wikimedia Commons CC0/PD, Flickr CC0/PDM, rawpixel CC0, StockSnap CC0, WordPress Photos CC0) or prior verified Wave library.
+New Wave 13 files: see builds/_assets_dl/wave13/LICENSES.md for source URLs and licenses.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
+
+hero-site.jpg <- wave13/fence-line-path.jpg : New fence line along a path (wordpress CC0 1.0 https://wordpress.org/photos/photo/39068d114b/)
+services-trade.jpg <- wave13/fence-post-fasten.jpg : Fence section being fastened to a new post (flickr CC0 1.0 https://www.flickr.com/photos/37996646802@N01/50156278663)
+people-crew.jpg <- wave13/fence-roadside.jpg : New fence along a gravel road (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/40882383@N03/52517585869)
+people-marek.jpg <- wave13/fence-vines-wall.jpg : Fence above a low wall, under flowering vines (stocksnap CC0 1.0 https://stocksnap.io/photo/woodgrain-fence-V44E0USN1Y)
+people-tom.jpg <- wave13/fence-close-leaves.jpg : Fence close-up with climbing leaves (stocksnap CC0 1.0 https://stocksnap.io/photo/wood-fence-UMZB1ZRYGW)
+coverage-house.jpg <- wave11/house-gabled-lawn.jpg : gabled single-family home with lawn (prior verified library wave2/house-suburb.jpg)
+fence-posts-set.jpg <- wave13/fence-posts-set.jpg : New posts set in a line across open ground, before the fence goes up (wikimedia Public domain https://commons.wikimedia.org/wiki/File:Setting_the_Posts_for_Fence_Installation_(91473a79-e85c-436c-9182-33b9d1492718).jpg)
+fence-line-new.jpg <- wave13/fence-line-new.jpg : New fence built on fresh posts across a yard (flickr CC0 1.0 https://www.flickr.com/photos/120143184@N05/47943215636)
+fence-down-tree.jpg <- wave13/fence-down-tree.jpg : Old fence knocked down under a fallen tree (wikimedia CC0 1.0 https://commons.wikimedia.org/w/index.php?curid=141410454)
+fence-backyard-new.jpg <- wave13/fence-backyard-new.jpg : Backyard fence line along a lawn (wikimedia CC0 1.0 https://commons.wikimedia.org/w/index.php?curid=38637177)
+fence-forms-base.jpg <- wave13/fence-forms-base.jpg : Forms and base set for new concrete (wikimedia CC0 1.0 https://commons.wikimedia.org/w/index.php?curid=89507689)
+fence-conc-placed.jpg <- wave13/fence-conc-placed.jpg : New concrete placed and finished between forms (wikimedia CC0 1.0 https://commons.wikimedia.org/w/index.php?curid=92086630)
+
+Note: New trade (fencing): wave13 set. Wordmark JDK Fence Construction per the packet Logo line (licensed as J D K Fence Construction). Services come from the license classes only, so no fence types or materials are named. The no-DNS jdk domains are NOT used or linked; domain ideas avoid those strings.
